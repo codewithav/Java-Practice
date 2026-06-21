@@ -1,13 +1,13 @@
-import java.util.Vector;
+// import java.util.Vector;
 
-public class Vector{
+// public class Vector{
     
-    public static void main(String[] args){
+//     public static void main(String[] args){
         
-        Vector<String> v = new Vector<>();
-        v.add("A");
-        v.add("B");
-        v.add("C");
-        System.out.println(v);
-    }
-}
+//         Vector<String> v = new Vector<>();
+//         v.add("A");
+//         // v.add("B");
+//         v.add("C");
+//         System.out.println(v);
+//     }
+// }
